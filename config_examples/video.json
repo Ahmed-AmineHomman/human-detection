@@ -1,0 +1,18 @@
+{
+  "capture_path": "input/video.mp4",
+  "output_folder": "/home/jdupont/data",
+  "resolution": [640, 480],
+  "thresholds": {
+    "confidence": 0.5,
+    "overlap": 0.5
+  },
+  "logging": {
+    "console": true,
+    "display": true
+  },
+  "frames": {
+    "min": 0,
+    "max": -1
+  },
+  "box_color": [0, 255, 0]
+}

@@ -1,0 +1,13 @@
+{
+  "capture_path": "input/bodies.jpg",
+  "output_folder": "/home/jdupont/data",
+  "thresholds": {
+    "confidence": 0.5,
+    "overlap": 1
+  },
+  "logging": {
+    "console": true,
+    "display": true
+  },
+  "box_color": [0, 255, 0]
+}
